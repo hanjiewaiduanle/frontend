@@ -1,2 +1,2 @@
 # frontend
-learn how to build web pages
+Learn how to use HTML CSS JS
